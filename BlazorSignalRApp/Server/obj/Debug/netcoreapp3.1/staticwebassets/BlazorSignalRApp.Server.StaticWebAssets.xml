@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Sagnik Chatterjee\Desktop\blazor\BlazorSignalRApp\BlazorSignalRApp\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Sagnik Chatterjee\Desktop\blazor\BlazorSignalRApp\BlazorSignalRApp\Client\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>
